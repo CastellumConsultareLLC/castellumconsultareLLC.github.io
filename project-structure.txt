@@ -1,0 +1,19 @@
+castellumconsultareLLC.github.io/
+│
+├── index.html
+├── README.md
+├── LICENSE
+│
+├── assets/
+│   ├── logo.png
+│   ├── strategic-planning.jpg
+│   ├── financial-analysis.jpg
+│   └── business-development.jpg
+│
+├── css/
+│   └── style.css
+│
+└── .github/
+    └── workflows/
+        ├── html-lint.yml
+        └── deploy.yml

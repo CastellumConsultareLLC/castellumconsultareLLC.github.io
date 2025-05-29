@@ -1,0 +1,41 @@
+/* Move all CSS from previous examples here for maintainability */
+
+/* Example: */
+body {
+    line-height: 1.6;
+    color: #333;
+    background: #1c2526;
+    font-family: Arial, sans-serif;
+}
+header {
+    background: #fff;
+    padding: 1rem;
+    text-align: center;
+    border-bottom: 2px solid #f5c518;
+}
+header h1 {
+    font-size: 1.5rem;
+    color: #f5c518;
+}
+nav {
+    background: #fff;
+    padding: 0.5rem;
+    text-align: center;
+}
+nav a {
+    margin: 0 1rem;
+    text-decoration: none;
+    color: #f5c518;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    transition: background 0.2s, color 0.2s;
+}
+nav a:hover, nav a:focus {
+    color: #fff;
+    background: #f5c518;
+    padding: 0.3rem 0.5rem;
+    border-radius: 3px;
+    outline: none;
+}
+/* ... (include all CSS from previous examples) ... */
